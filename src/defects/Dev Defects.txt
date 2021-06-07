@@ -1,14 +1,17 @@
 /**********************************UI Defects***********************************************/
-#1 June 07 : URL change for dev server --> ?
-#2 June 07 : Appointment is already booked message not shown in UI -->
-#3 June 07 : show confirmation for cancellation
-#4 June 07 : Slot info not updated as per services response
-#5 June 07 : No available doeses not shown in UI for a date
-#6 June 07 : Next week does not shown in ui. Calender controll available
-#7 June 07 : On successful scheduling, after the pop up, booked date and slot should get updated. Also the no of doses should get reduced accordingly.
 
-#9 June 07 : If the appointment is not valid, and user clicks on cancel, then proper msg should be returned in the pop up
-#10 June 07 : reschedule / cancel should not be available for next day appoinment
+#6 June 07 : Next week does not shown in ui. Calender controll available --> INPROGRESS
+#7 June 07 : On successful scheduling, after the pop up, booked date and slot should get updated. Also the no of doses should get reduced accordingly.
+#8 June 07 : If the appointment is not valid, and user clicks on cancel, then proper msg should be returned in the pop up
+#9 June 07 : reschedule / cancel should not be available for next day appoinment
+
+/***********************************UI Defects FIXED**********************************************/
+#1 June 07 : URL change for dev server --> DONE
+#2 June 07 : Appointment is already booked message not shown in UI --> DONE
+#3 June 07 : show confirmation for cancellation --> DONE
+#4 June 07 : Slot info not updated as per services response --> DONE
+#5 June 07 : No available doeses not shown in UI for a date --> DONE
+
 
 /**********************************Services Defects***********************************************/
 #1 June 07 : Session does not expire  --> Arti --> Inprogress
